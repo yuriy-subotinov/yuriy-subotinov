@@ -13,7 +13,7 @@ Outside of software development, I have **6+ years of entrepreneurial and team l
 ## 💼 Experience
 
 ### Java Backend Developer · Win Win Travel
-**Oct 2025 – Apr 2026**
+**October 2025 – April 2026**
 
 - Developed and maintained an AI-powered chat module integrated with the **OpenAI API**
 - Reduced perceived response time by approximately **7x** through asynchronous processing and real-time delivery
@@ -24,7 +24,7 @@ Outside of software development, I have **6+ years of entrepreneurial and team l
 - Collaborated with QA and prompt engineers and documented the module in Confluence
 
 ### Founder / Java Backend Developer · Independent Delivery Platform
-**Mar 2026 – Present**
+**March 2026 – Present**
 
 - Building a multi-role delivery ecosystem for clients, couriers, restaurants, and administrators
 - Implementing order lifecycle management, courier workflows, real-time tracking, route building, statistics, notifications, and chat events
